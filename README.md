@@ -10,6 +10,7 @@ Built as the **White Belt (Level 1)** submission for the
 builder challenge.
 
 > **🔗 Live demo:** https://ertanyeni.github.io/stellar-testnet-pay/
+> **⛓️ On-chain proof:** [testnet payment tx](https://stellar.expert/explorer/testnet/tx/85855e1b9d1a2f29ad049446118a40a072113391635ed836760112063fbffc2e) (100 XLM, memo `White Belt L1`)
 > ⚠️ Testnet only — no real funds are ever involved.
 
 ---
